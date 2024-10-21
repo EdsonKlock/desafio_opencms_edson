@@ -1,4 +1,4 @@
-<h1>DESAFIO VHL Sistemas</h1> 
+<h1>DESAFIO VHL Sistemas </h1> 
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
@@ -15,31 +15,31 @@
 
 ... 
 
-## Descrição do projeto 
+# Descrição do projeto 
 
 <p align="justify">
   Instalar e configurar o OpenCMS. 
 </p>
 
-## Funcionalidades
+# Funcionalidades
 
 :objetivo final é que possamos acessar a instalação do
 OpenCMS através do NGINX como proxy reverso. Por questões de simplicidade, não será
 necessário disponibilizar a URL publicamente; basta criar um cenário no qual a URL esteja
 configurada localmente, no arquivo hosts.
 
-## Layout ou Deploy da Aplicação :dash:
+# Layout ou Deploy da Aplicação :dash:
 
 > Link do deploy da aplicação. http://www.opencms.org/en/
 ... 
 
-## Pré-requisitos
+# Pré-requisitos
 
 :warning: [OpenCMS](http://www.opencms.org/en/)
 
 ...
 
-## Como rodar a aplicação :arrow_forward:
+# Como rodar a aplicação :arrow_forward:
 
 No terminal, Instale NGINX 
 
@@ -92,12 +92,12 @@ docker-compose.yml  nginx
 # Para Acesso
 http://localhost/login/
 
-### Usuários: 
+# Usuários: 
 
 |Edson Klock|edsondefreitasklock@gmail.com|
 
 ... 
 
-## Licença 
+# Licença 
 
 Copyright :copyright: 2024 - desafio_opencms_edson
