@@ -1,4 +1,4 @@
-<h1>DESAFIO VHL Sistemas </h1> 
+<h1>DESAFIO VHL Sistemas href="/favicon.ico" </h1> 
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
