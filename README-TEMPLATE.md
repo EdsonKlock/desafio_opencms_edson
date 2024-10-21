@@ -11,7 +11,7 @@
    <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
-> Status do Projeto: :heavy_check_mark: :warning: (concluido, em desenvolvimento, etc)
+> Status do Projeto: :heavy_check_mark: :warning:
 
 ... 
 
@@ -30,11 +30,8 @@ configurada localmente, no arquivo hosts.
 
 ## Layout ou Deploy da Aplicação :dash:
 
-> Link do deploy da aplicação. Exemplo com netlify: https://certificates-for-everyone-womakerscode.netlify.app/
-
+> Link do deploy da aplicação. http://www.opencms.org/en/
 ... 
-
-Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
 
 ## Pré-requisitos
 
@@ -44,7 +41,7 @@ Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
 
 ## Como rodar a aplicação :arrow_forward:
 
-No terminal, Instale file:///home/klock/Downloads/projeto/opencms_8.0.4/install.html#a1 
+No terminal, Instale NGINX 
 
 ```
 sudo apt-get update
@@ -73,7 +70,7 @@ docker-compose.yml  nginx
 ~$ docker-compose up 
 ```
 
-## Casos de Uso
+# Casos de Uso
 
 # Inicie o OpenCms e o MariaDB
 # Navegue até a pasta com o arquivo docker-compose.yml e execute 
@@ -90,16 +87,16 @@ docker-compose.yml  nginx
 # Faça login no OpenCms
 # Quando os contêineres estiverem configurados, você poderá acessar o OpenCms via http://localhost/system/login.
 
-# A conta padrão é nome de usuário Admin senha admin.
+# A conta padrão é nome de usuário Admin senha admin, depois alterar senha.
 
 # Para Acesso
 http://localhost/login/
 
 ### Usuários: 
 
-|name|email|password|token|avatar|
-| -------- |-------- |-------- |-------- |
-|Edson Klock|edsondefreitasklock@gmail.com|*****|****|q=tbn%3AANd9GcS9-U_HbQAipum9lWln3APcBIwng7T46hdBA42EJv8Hf6Z4fDT3&usqp=CAU|
+|name|email|
+| -------- |-------- |-
+|Edson Klock|edsondefreitasklock@gmail.com|
 
 ... 
 
