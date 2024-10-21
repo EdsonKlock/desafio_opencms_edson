@@ -94,8 +94,6 @@ http://localhost/login/
 
 ### Usuários: 
 
-|name|email|
-| -------- |-------- |-
 |Edson Klock|edsondefreitasklock@gmail.com|
 
 ... 
