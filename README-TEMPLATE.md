@@ -46,7 +46,7 @@ configurada localmente, no arquivo hosts.
 
 # Como rodar a aplicação :arrow_forward:
 
-No terminal, Instale NGINX 
+# No terminal, Instale NGINX 
 
 ```
 sudo apt-get update
