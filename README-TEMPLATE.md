@@ -74,9 +74,6 @@ docker-compose.yml  nginx
 
 ~$ docker-compose up 
 ```
-
-# Casos de Uso
-
 # Inicie o OpenCms e o MariaDB
 # Navegue até a pasta com o arquivo docker-compose.yml e execute 
 ```
