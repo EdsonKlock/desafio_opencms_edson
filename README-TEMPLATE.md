@@ -1,10 +1,9 @@
 <h1>DESAFIO VHL Sistemas 
 <p>&nbsp;</p>
-<figure class="image image_resized" style="width:11.43%;" data-ckbox-resource-id="agFVWKnzH20A">
+<figure class="image image_resized" style="width:6.87%;" data-ckbox-resource-id="f6yCgDNWQUw0">
     <picture>
-        <source srcset="https://ckbox.cloud/54b1f6d739bb19fd0b9a/assets/agFVWKnzH20A/images/80.webp 80w,https://ckbox.cloud/54b1f6d739bb19fd0b9a/assets/agFVWKnzH20A/images/160.webp 160w,https://ckbox.cloud/54b1f6d739bb19fd0b9a/assets/agFVWKnzH20A/images/200.webp 200w" type="image/webp" sizes="(max-width: 200px) 100vw, 200px"><img src="https://ckbox.cloud/54b1f6d739bb19fd0b9a/assets/agFVWKnzH20A/images/200.jpeg" width="200" height="200">
-    </picture>
-</figure> </h1> 
+        <source srcset="https://ckbox.cloud/54b1f6d739bb19fd0b9a/assets/f6yCgDNWQUw0/images/80.webp 80w,https://ckbox.cloud/54b1f6d739bb19fd0b9a/assets/f6yCgDNWQUw0/images/160.webp 160w,https://ckbox.cloud/54b1f6d739bb19fd0b9a/assets/f6yCgDNWQUw0/images/200.webp 200w" sizes="(max-width: 200px) 100vw, 200px" type="image/webp"><img src="https://ckbox.cloud/54b1f6d739bb19fd0b9a/assets/f6yCgDNWQUw0/images/200.jpeg" width="200" height="200">
+    </picture> </h1> 
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
