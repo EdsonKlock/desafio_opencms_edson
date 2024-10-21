@@ -54,3 +54,6 @@ docker-compose.yml  nginx
 # Quando os contêineres estiverem configurados, você poderá acessar o OpenCms via http://localhost/system/login.
 
 # A conta padrão é nome de usuário Admin senha admin.
+
+# Para Acesso
+http://localhost/login/
