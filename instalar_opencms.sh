@@ -75,3 +75,7 @@ run_opencms
 login_opencms
 
 echo "Instalação concluída! Acesse http://localhost/login/"
+
+# comando para Rodar script
+# permissão de execução ao arquivo ( chmod +x instalar_opencms.sh )
+# Execute o script ( ./instalar_opencms.sh )
